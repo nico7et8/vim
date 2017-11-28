@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/nico7et8/sites/shitsite/wp-content/themes/juno/inc'
+let g:netrw_dirhist_2='/Users/nico7et8/sites/shitsite/wp-content/themes/simple-grey'
+let g:netrw_dirhist_3='/Users/nico7et8/sites/shitsite/wp-content/themes/nicotheme/inc'
+let g:netrw_dirhist_4='/Users/nico7et8/Desktop/Trashion.scriv'
+let g:netrw_dirhist_5='/Users/nico7et8/niconfig/dotfiles/oldvim/ftplugin'
